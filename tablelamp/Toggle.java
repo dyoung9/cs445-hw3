@@ -1,4 +1,4 @@
-package TableLamp.Toggle;
+//package tablelamp.toggle;
 
 
 public class Toggle {

@@ -1,7 +1,9 @@
-package TableLamp.LightBulb;
+//package TableLamp.LightBulb;
 
-public class LightBulb extends Toggle {
+public class Lightbulb extends Toggle {
 
+  public Lightbulb() {}
+  
   public void on() {
     this.setState("on");
     System.out.println("Lightbulb on");
